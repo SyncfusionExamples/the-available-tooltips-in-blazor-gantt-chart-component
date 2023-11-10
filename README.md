@@ -4,17 +4,18 @@ The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gan
 
 In this quick-start project, you can learn how the tooltips works in a Syncfusion Blazor Gantt Chart in a Blazor WebAssembly app. You will learn the tooltips available in Taskbar, Connector lines, baselines, event markers and in the grid cells. Also, you can learn how to customize the tooltips in the Taskbars and baselines using templates.
 
-Watch the video: Coming soon...
+**Documentation**: https://blazor.syncfusion.com/documentation/gantt-chart/resources 
 
-Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/resources 
+## Prerequisites
 
-## Project prerequisites
-Make sure you have a compatible version of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2019 (version 16.6+)]( https://visualstudio.microsoft.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
-* [.NET Core SDK 3.1.3+](https://dotnet.microsoft.com/download/dotnet-core/3.1?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
+* Visual Studio 2022
 
-## How to run this application
-To run this application, you need to first clone or download the ‘the available tooltips in blazor gantt chart component’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 
